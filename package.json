@@ -6,7 +6,8 @@
   "repository": {
     "url": "git+https://github.com/oigabrielteodoro/eslint-config.git"
   },
-  "keywords": [],
+  "private": false,
+  "keywords": ["eslint-config", "eslint-config-react"],
   "author": "Gabriel Teodoro <oi@gabrielteodoro.com>",
   "license": "MIT",
   "devDependencies": {
