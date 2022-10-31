@@ -1,8 +1,8 @@
 {
   "name": "@oigabrielteodoro/eslint-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "eslint-config used by Gabriel Teodoro.",
-  "main": "react.js",
+  "main": "index.js",
   "repository": {
     "url": "git+https://github.com/oigabrielteodoro/eslint-config.git"
   },
@@ -10,7 +10,7 @@
   "keywords": ["eslint-config", "eslint-config-react"],
   "author": "Gabriel Teodoro <oi@gabrielteodoro.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "eslint": "^7.23.0 || ^8.0.0",
