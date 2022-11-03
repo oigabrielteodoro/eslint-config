@@ -7,10 +7,14 @@
     "url": "git+https://github.com/oigabrielteodoro/eslint-config.git"
   },
   "private": false,
-  "keywords": ["eslint-config", "eslint-config-react"],
+  "keywords": [
+    "eslint-config",
+    "eslint-config-react"
+  ],
   "author": "Gabriel Teodoro <oi@gabrielteodoro.com>",
   "license": "MIT",
   "dependencies": {
+    "@next/eslint-plugin-next": "^13.0.1",
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "eslint": "^7.23.0 || ^8.0.0",
