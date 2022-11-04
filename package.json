@@ -1,6 +1,6 @@
 {
   "name": "@oigabrielteodoro/eslint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "eslint-config used by Gabriel Teodoro.",
   "main": "index.js",
   "repository": {
